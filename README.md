@@ -1,1 +1,1 @@
-# Shopify-Sales-and-Customer-Funnel-Report-in-Power-BI
+Shopify | Sales and Customer Funnel Report in Power BI
